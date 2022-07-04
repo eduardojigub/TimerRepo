@@ -1,0 +1,16 @@
+C:\Users\eduardo.guimaraes\Desktop\Projects\Timer\TimerRepo\StopWatch\bin\Debug\net5.0\StopWatch.exe
+C:\Users\eduardo.guimaraes\Desktop\Projects\Timer\TimerRepo\StopWatch\bin\Debug\net5.0\StopWatch.deps.json
+C:\Users\eduardo.guimaraes\Desktop\Projects\Timer\TimerRepo\StopWatch\bin\Debug\net5.0\StopWatch.runtimeconfig.json
+C:\Users\eduardo.guimaraes\Desktop\Projects\Timer\TimerRepo\StopWatch\bin\Debug\net5.0\StopWatch.runtimeconfig.dev.json
+C:\Users\eduardo.guimaraes\Desktop\Projects\Timer\TimerRepo\StopWatch\bin\Debug\net5.0\StopWatch.dll
+C:\Users\eduardo.guimaraes\Desktop\Projects\Timer\TimerRepo\StopWatch\bin\Debug\net5.0\ref\StopWatch.dll
+C:\Users\eduardo.guimaraes\Desktop\Projects\Timer\TimerRepo\StopWatch\bin\Debug\net5.0\StopWatch.pdb
+C:\Users\eduardo.guimaraes\Desktop\Projects\Timer\TimerRepo\StopWatch\obj\Debug\net5.0\StopWatch.csproj.AssemblyReference.cache
+C:\Users\eduardo.guimaraes\Desktop\Projects\Timer\TimerRepo\StopWatch\obj\Debug\net5.0\StopWatch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eduardo.guimaraes\Desktop\Projects\Timer\TimerRepo\StopWatch\obj\Debug\net5.0\StopWatch.AssemblyInfoInputs.cache
+C:\Users\eduardo.guimaraes\Desktop\Projects\Timer\TimerRepo\StopWatch\obj\Debug\net5.0\StopWatch.AssemblyInfo.cs
+C:\Users\eduardo.guimaraes\Desktop\Projects\Timer\TimerRepo\StopWatch\obj\Debug\net5.0\StopWatch.csproj.CoreCompileInputs.cache
+C:\Users\eduardo.guimaraes\Desktop\Projects\Timer\TimerRepo\StopWatch\obj\Debug\net5.0\StopWatch.dll
+C:\Users\eduardo.guimaraes\Desktop\Projects\Timer\TimerRepo\StopWatch\obj\Debug\net5.0\ref\StopWatch.dll
+C:\Users\eduardo.guimaraes\Desktop\Projects\Timer\TimerRepo\StopWatch\obj\Debug\net5.0\StopWatch.pdb
+C:\Users\eduardo.guimaraes\Desktop\Projects\Timer\TimerRepo\StopWatch\obj\Debug\net5.0\StopWatch.genruntimeconfig.cache
