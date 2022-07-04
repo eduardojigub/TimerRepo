@@ -1,2 +1,2 @@
 # TimerRepo
-A Stopwatch made using C#
+A Stopwatch console application made using C#
